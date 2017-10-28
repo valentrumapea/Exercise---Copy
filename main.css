@@ -1,0 +1,20 @@
+p{
+    color: deeppink;
+    font-style: italic;
+    font-size: 20pt
+}
+body{
+    color: limegreen;
+    font-style: italic;
+    font-size: 15pt
+}
+.bluetiny{
+    color: deepskyblue;
+  }
+.content{
+    background-color: darkseagreen;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+}
